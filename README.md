@@ -16,10 +16,10 @@ This project presents a comprehensive **sales analysis dashboard** for a coffee 
 
 ## 📊 Key Insights
 
-- 📈 **Total Sales:** ₹6,98,812.33  
-- 👣 **Total Footfall:** 149,116 customers  
-- 💵 **Avg Bill/Person:** ₹4.69  
-- 🧾 **Avg Order/Person:** 1.44  
+-  **Total Sales:** ₹6,98,812.33  
+-  **Total Footfall:** 149,116 customers  
+-  **Avg Bill/Person:** ₹4.69  
+-  **Avg Order/Person:** 1.44  
 
 ---
 
@@ -44,7 +44,5 @@ This project presents a comprehensive **sales analysis dashboard** for a coffee 
 - Conditional Formatting  
 - Dashboard Design Principles  
 
----
 
-## 📂 Project Structure
 
